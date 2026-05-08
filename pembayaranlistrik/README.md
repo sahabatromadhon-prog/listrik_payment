@@ -4,9 +4,9 @@
 
 <p align='center'>Ini adalah aplikasi web yang dibuat berdasarkan tugas LSP analisis program FR.IA02</p>
 
-<p align='center'>Projek ini dibuat untuk syarat penyelesaian LSP Analisis Program UBSI</p>
+<p align='center'>Projek ini dibuat untuk syarat penyelesaian LSP Analisis Program NUSA MANDIRI</p>
 
 <br>
 <br>
 <h2 align='center'>Terima Kasih</h2>
-<h2 align='center'>Desna Andri</h2>
+<h2 align='center'>ROMADHON</h2>
